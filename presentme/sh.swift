@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct PresentMeView: View {
+struct sh: View {
     var body: some View {
         
         //UI content inside body
@@ -35,5 +35,5 @@ struct PresentMeView: View {
 }
 
 #Preview {
-    PresentMeView()
+    sh()
 }
